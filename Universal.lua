@@ -1044,7 +1044,7 @@ Home:CreateInput(
 -- Player
 Player:CreateToggle(
     {
-        Name = "Fly (By my friend Ace) BROKEN DO NOT USE",
+        Name = "Fly (By my friend Ace)",
         CurrentValue = false,
         Flag = "Fly",
         Callback = function(Value)
