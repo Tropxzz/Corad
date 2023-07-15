@@ -844,11 +844,11 @@ local animation2
 local animation
 local animation3
 local animation4
-local hover = "rbxassetid://5621061388"
+local hover = "rbxassetid://"
 local plr = game.Players.LocalPlayer
-local fly = "rbxassetid://5621014745"
-local r = "rbxassetid://9737207847"
-local l = "rbxassetid://9736797791"
+local fly = "rbxassetid://"
+local r = "rbxassetid://"
+local l = "rbxassetid://"
 local character
 local loader
 local loader2
